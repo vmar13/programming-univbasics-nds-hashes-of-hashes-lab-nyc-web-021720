@@ -54,6 +54,7 @@ def naming_system
       label: "Species",
       sub_category: nil 
   }
+  hash[:sub_category][:sub_category][:sub_category][:label]="Order"
   hash
 end
 
