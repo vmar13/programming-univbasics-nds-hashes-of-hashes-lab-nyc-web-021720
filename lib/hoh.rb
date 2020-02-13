@@ -40,8 +40,10 @@ def naming_system
       label: "Class"
     }
   }
+},
+    PORTION_2 => {
+#   label: "Order"
 }
-    PORTION_2,
     PORTION_3,
     PORTION_4
   }
