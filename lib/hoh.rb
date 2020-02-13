@@ -53,8 +53,8 @@ def naming_system
         }
       }
     }
-  hash[:sub_category][:sub_category][:sub_category][:label]="Order"
-  hash
+  # hash[:sub_category][:sub_category][:sub_category][:label]="Order"
+  # hash
 end
 
 # Remember:
