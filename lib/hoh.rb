@@ -31,6 +31,7 @@
 # }
 
 def naming_system
+  hash = {}
   #Hoh = {
     #PORTION_1,
     #PORTION_2,
