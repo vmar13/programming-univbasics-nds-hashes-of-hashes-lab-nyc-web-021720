@@ -56,7 +56,7 @@ def naming_system
   }
 }
   hash
-  hash[PORTION_4][sub_category]="Order"
+  hash[PORTION_4][:sub_category]="Order"
 end
 
 # Remember:
