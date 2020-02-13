@@ -32,7 +32,7 @@
 
 def naming_system
   hash = {
-    :PORTION_1 => {
+    PORTION_1: => {
       label: "Kingdom",
       sub_category: {
       label: "Phylum",
