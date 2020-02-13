@@ -31,7 +31,7 @@
 # }
 
 def naming_system
-  Hoh = {
+  HoH = {
     
   }
   # Remember:
