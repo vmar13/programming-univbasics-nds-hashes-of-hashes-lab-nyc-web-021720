@@ -42,9 +42,14 @@ def naming_system
   }
 },
     PORTION_2 => {
-#   label: "Order"
+      label: "Order"
+},
+    PORTION_3 => {
+  label: "Family",
+  sub_category: {
+    label: "Genus",
+  }
 }
-    PORTION_3,
     PORTION_4
   }
   hash 
